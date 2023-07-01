@@ -20,4 +20,4 @@ Galeria que muestra imagenes usando la api de "rickandmorty".
 Una vez que el servidor haya cargado debes de visitar la siguiente URL: [http://localhost:5173/](http://localhost:5173/)
 
 # Screenshots
-![](/resources/1.png)
+![](/resource/1.png)
